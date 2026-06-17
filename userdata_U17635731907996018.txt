@@ -1,0 +1,9 @@
+[FLASHCARDS]
+F17635732163780|Maths|What are the fundamental concepts of Maths?|The fundamental concepts include basic definitions, principles, and core components of Maths|AI-Generated
+F17635732164111|Maths|How does Maths work in practice?|Maths works by applying specific methodologies and techniques to solve problems|AI-Generated
+F17635732164112|Maths|What are the main advantages of Maths?|Main advantages include efficiency, scalability, and practical applicability in various scenarios|AI-Generated
+F17635732164113|Maths|Explain a key principle of Maths|A key principle involves understanding the underlying mechanisms and best practices|AI-Generated
+F17635732164114|Maths|What are common use cases for Maths?|Common use cases include practical applications in real-world scenarios and projects|AI-Generated
+[TASKS]
+1
+[SESSIONS]
